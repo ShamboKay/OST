@@ -1,4 +1,4 @@
-package lab3;
+package Lab3;
 
 //Driver program to test the Time class.
 public class TimeTest

@@ -1,4 +1,4 @@
-package lab3;
+package Lab3;
 
 //Time class definition
 public class Time 
