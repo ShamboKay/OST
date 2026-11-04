@@ -29,7 +29,15 @@ public class Student extends Person {
         for (int i = 0; i < numCourses; i++) {
             System.out.print(" " + courses[i] + ":" + grades[i]);
         }
+
+
+
+
         System.out.println(); // Moves to the next line
+
+
+
+        
     }
 
     // Calculate average
